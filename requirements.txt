@@ -1,5 +1,5 @@
-numpy==1.26.0  # (or specify a version compatible with scikit-learn 1.3.0)
-scikit-learn==1.3.0
+
+scikit-learn==1.4.2
 Pillow==10.0.0
 img2vec-pytorch==1.0.1
 
